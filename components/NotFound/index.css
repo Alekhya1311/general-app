@@ -1,0 +1,18 @@
+/* Write your CSS code here */
+.container4 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.image4 {
+  width: 300px;
+  height: 300px;
+}
+
+.heading4 {
+  color: #551e53;
+  font-size: 50px;
+  font-weight: 700;
+}

@@ -1,0 +1,24 @@
+/* Write your CSS code here */
+.container-about {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.image3 {
+  width: 200px;
+  height: 200px;
+}
+
+.heading3 {
+  color: #551e53;
+  font-size: 50px;
+  font-weight: 700;
+}
+.paragraph {
+  color: #555555;
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
